@@ -11,7 +11,7 @@ This project is built using Python, a versatile programming language widely used
 Essential for numerical operations and data manipulation. NumPy provides array structures and mathematical functions that are optimized for performance, making it easier to handle large datasets and perform linear algebra computations, which are foundational in physics simulations.
 
 #### SciPy
-Extends NumPy's capabilities with more specialized tools for scientific and technical computing. SciPy includes modules for optimization, integration, interpolation, and differential equations—essential for modeling complex physical phenomena and solving advanced mathematical problems.
+Extends NumPy's capabilities with more specialized tools for scientific and technical computing. SciPy includes modules for optimization, integration, interpolation, and differential equations essential for modeling complex physical phenomena and solving advanced mathematical problems.
 
 #### Matplotlib
 Used for creating detailed and customizable visualizations. In this project, Matplotlib helps generate graphs, charts, and potentially 3D plots to visualize simulation results and data insights, making it easier to interpret computational outcomes in a clear, visual format.
